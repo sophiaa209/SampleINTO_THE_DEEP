@@ -7,6 +7,7 @@ import org.firstinspires.ftc.teamcode.drive.writtenCode.RobotMap;
 
 @Config
 public class FourbarController {
+    //this controls the position of the fourbar: whether it's in the init position or high
     public enum fourbarStatus
     {
         INIT,

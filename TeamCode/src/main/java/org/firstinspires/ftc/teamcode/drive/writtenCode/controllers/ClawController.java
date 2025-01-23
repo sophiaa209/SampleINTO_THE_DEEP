@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.Servo;
 import org.firstinspires.ftc.teamcode.drive.writtenCode.RobotMap;
 @Config
 public class ClawController {
-
+//this controls whether the claw is open or closed
     public enum clawStatus{
         OPEN,
         CLOSED;

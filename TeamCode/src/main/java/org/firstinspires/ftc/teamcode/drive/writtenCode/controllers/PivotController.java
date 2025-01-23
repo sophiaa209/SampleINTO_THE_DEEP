@@ -7,7 +7,7 @@ import org.firstinspires.ftc.teamcode.drive.writtenCode.RobotMap;
 
 @Config
 public class PivotController {
-
+//this controls the position of the pivot; it can be in the init or score position
     public enum pivotStatus {
         INIT,
         SCORE;

@@ -7,7 +7,7 @@ import org.firstinspires.ftc.teamcode.drive.writtenCode.RobotMap;
 @Config
 
 public class ClawRotateController {
-
+//this controls the rotation of the claw
     public enum clawRotateStatus
     {
         INIT,

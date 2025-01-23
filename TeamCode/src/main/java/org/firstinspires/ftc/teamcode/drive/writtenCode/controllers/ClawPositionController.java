@@ -8,7 +8,7 @@ import org.firstinspires.ftc.teamcode.drive.writtenCode.RobotMap;
 @Config
 
 public class ClawPositionController {
-
+//this controls the position of the claw when it's in init, collect and place specimen states
     public enum clawPositionStatus{
         INIT,
         COLLECT,

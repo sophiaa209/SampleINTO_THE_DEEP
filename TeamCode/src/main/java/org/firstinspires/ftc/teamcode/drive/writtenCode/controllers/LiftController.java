@@ -7,6 +7,7 @@ import com.qualcomm.robotcore.hardware.DcMotorEx;
 import org.firstinspires.ftc.teamcode.drive.writtenCode.RobotMap;
 @Config
 public class LiftController {
+    //this controls the position of the lift; it can be either in the init position or score position
     public enum liftStatus
     {
         INIT,

@@ -7,7 +7,7 @@ import org.firstinspires.ftc.teamcode.drive.writtenCode.RobotMap;
 
 @Config
 public class LinkageController {
-
+//this controls the position of the linkage; it can be in init or extend position
 
     public enum linkageStatus
     {
